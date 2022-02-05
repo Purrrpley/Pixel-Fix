@@ -1,22 +1,22 @@
 {
-  "pack": {
-    "pack_format": 8,
-    "description": [
-      "",
-      "Fixes some pixel inconsistencies ",
-      [
-        {"text": "-", "color": "dark_purple"},
-        {"text": "P", "color": "#c406c4"},
-        {"text": "u", "color": "#ca0cca"},
-        {"text": "r", "color": "#d112d1"},
-        {"text": "r", "color": "#d719d7"},
-        {"text": "r", "color": "#de1fde"},
-        {"text": "p", "color": "#e425e4"},
-        {"text": "l", "color": "#ea2cea"},
-        {"text": "e", "color": "#f132f1"},
-        {"text": "y ", "color": "#f738f7"},
-        {"text": "\u2764", "color": "light_purple"}
-      ]
-    ]
-  }
+	"pack": {
+		"pack_format": 8,
+		"description": [
+			"",
+			"Fixes some pixel inconsistencies ",
+			[
+				{"text": "-", "color": "dark_purple"},
+				{"text": "P", "color": "#c406c4"},
+				{"text": "u", "color": "#ca0cca"},
+				{"text": "r", "color": "#d112d1"},
+				{"text": "r", "color": "#d719d7"},
+				{"text": "r", "color": "#de1fde"},
+				{"text": "p", "color": "#e425e4"},
+				{"text": "l", "color": "#ea2cea"},
+				{"text": "e", "color": "#f132f1"},
+				{"text": "y ", "color": "#f738f7"},
+				{"text": "\u2764", "color": "light_purple"}
+			]
+		]
+	}
 }
